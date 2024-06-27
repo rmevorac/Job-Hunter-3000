@@ -3,7 +3,7 @@ Manages networking tasks such as messaging contacts on LinkedIn to establish con
 """
 
 import time
-import functions.linkedin_functions as linkedin_functions
+import functions.linkedin_functions as linkedin
 from selenium import webdriver
 
 def network():
@@ -14,7 +14,7 @@ def network():
     driver.get("https://www.linkedin.com/feed")
 
     # Log in to LinkedIn
-    search_bar = linkedin_functions.linkedin_login(driver)
+    search_bar = linkedin.linkedin_login(driver)
 
     time.sleep(7)
 
