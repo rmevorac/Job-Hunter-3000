@@ -1,0 +1,415 @@
+No hirer details available
+Company Name: hackajob
+Company LinkedIn URL: https://www.linkedin.com/company/hackajob/life
+Company Size: 51-200 employees
+Position Title: Python Developer
+Position URL: https://www.linkedin.com/jobs/view/3978530049/?alternateChannel=search&refId=NotAvailable&trackingId=ugZTp1c0SV%2B0tFOYqks6aA%3D%3D&trk=d_flagship3_search_srp_jobs
+Position Description: About the job
+hackajob has partnered with a company that specializes in Machine Learning (ML) and Natural Language Processing (NLP) technologies..
+
+The ideal candidate would have a minimum of 6+ yrs. of experience as a Python in a commercial environment.
+
+The role: Senior Python Developer
+Location: Hybrid in New York, NY
+Employment type: Full time permanent
+
+Offer: Up to $195K depending on experience + benefits package
+
+Qualifications and Requirements:
+
+Minimum of 6 years of hands-on experience in the development of customer-facing APIs within a team environment.
+Effective and thoughtful communication skills, both verbal and written.
+Proficient in developing RESTful APIs using a diverse range of tools.
+Ability to translate abstract business requirements into detailed technical plans.
+Experience across various stages of the software development lifecycle.
+Strong analytical skills in assessing the behavior and performance of loosely-coupled systems.
+Proficiency in algorithms, including analysis of time and space complexity, along with expertise in data structures and software architecture.
+Demonstrated technical depth in at least one domain.
+
+If you're interested in finding out more about this fantastic opportunity please get your application in and we can arrange a call.
+
+hackajob is a recruitment platform that will match you with relevant roles based on your preferences and in order to be matched with the roles you need to create an account with us.
+
+*This role requires you to be based in the US*
+Location: New York, NY
+Salary: None
+Apply Link: https://hackajob.com/talent/discover?utm_source=LinkedIn&utm_medium=JobAds&utm_campaign=Danielle
+Hirer: None
+Hirer URL: None
+
+Some elements could not be found
+Encountered TimeoutException, retrying (1/3)...
+No hirer details available
+Company Name: JPMorganChase
+Company LinkedIn URL: https://www.linkedin.com/company/jpmorganchase/life
+Company Size: 10,001+ employees
+Position Title: React / Java Script Software Engineer III
+Position URL: https://www.linkedin.com/jobs/view/3984632368/?alternateChannel=search&refId=URlcFQqfljRRedJX3nG1bQ%3D%3D&trackingId=4JWb5kqMPI4YGHmI6AkZVg%3D%3D&trk=d_flagship3_search_srp_jobs
+Position Description: About the job
+Job Description
+
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
+
+As a React / Java Script Software Engineer III at JPMorgan Chase within the Consumer and Community Bank, Connected Commerce Technology, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
+
+Job Responsibilities
+
+Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems
+Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
+Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
+Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
+Contributes to software engineering communities of practice and events that explore new and emerging technologies
+Adds to team culture of diversity, equity, inclusion, and respect
+
+Required Qualifications, Capabilities, And Skills
+
+Formal training or certification on software engineering concepts and 3+ years applied experience
+Hands-on practical experience in system design, application development, testing, and operational stability
+Demonstrated experience with web application development using core Javascript, React.js and React.
+Able to self-learn new frameworks or wrapper frameworks 
+Knowledge of industry-wide technology trends and best practices.
+Ability to work in large, collaborative stakeholder teams to achieve organizational goals.
+Strong communication skills to effectively collaborate with product owners, end users, testers, designers, and developers.
+Solid proficiency in HTML, CSS, JavaScript, AJAX, and JSON
+Proficient with API calls, managing events and states
+Solid understanding of agile methodologies such as CI/CD, Application Resiliency, and Security
+
+Preferred Qualifications, Capabilities, And Skills
+
+Familiarity with modern front-end build pipelines and tools.
+Experience working in an Agile based project environment.
+Exposure to cloud technologies
+
+ABOUT US
+
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans
+
+About The Team
+
+Our Consumer & Community Banking Group depends on innovators like you to serve consumers, small businesses, municipalities and non-profits. You’ll support the delivery of award winning tools and services that cover everything from personal and small business banking as well as lending, mortgages, credit cards, payments, auto finance and investment advice. This group is also focused on developing and delivering cutting edged mobile applications, digital experiences and next generation banking technology solutions to better serve our clients and customers.
+Location: New York, NY
+Salary: None
+Apply Link: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210496308
+Hirer: None
+Hirer URL: None
+
+No hirer details available
+Company Name: Amazon Web Services (AWS)
+Company LinkedIn URL: https://www.linkedin.com/company/amazon-web-services/life
+Company Size: 10,001+ employees
+Position Title: Front End Engineer II, AWS IQ & AWS Marketplace Professional Services
+Position URL: https://www.linkedin.com/jobs/view/3985081288/?alternateChannel=search&refId=URlcFQqfljRRedJX3nG1bQ%3D%3D&trackingId=7%2BJMmPNSLVqM8WAii9W1Bw%3D%3D&trk=d_flagship3_search_srp_jobs
+Position Description: About the job
+Description
+
+Our team owns the professional services experience on AWS Marketplace, comprised of two products AWS IQ and Marketplace Professional Services. We own our product roadmap, technical design, engineering process, launch plan, go to market, and P&L. Our team is made up of inspired product managers, strong technical leaders, and motivated, autonomous software engineers. We operate two real-time web applications for customers and are developing new functionality to better serve these customers. As a Software Dev Engineer on the team, you’ll lead building and improving the backend services that power the front end web applications to meet our customers’ high expectations around usability and performance. You operate at all levels, diving deep into the details while providing strategic inputs for the products. You will design and implement product and platform features that deliver customer benefit at scale.
+
+You will work closely with product managers, UX designers, senior and peer-level software engineers to deliver critical and complex products and features. You will own quality and deployment for your code. You will mentor junior team members to improve their skills and raise the bar on software development best practices. You’re expected to think like an owner, driving the right thinking on time to market, quality, and breadth of functionality for users. The ideal candidate is a creative technology leader with both breadth and depth of relevant technologies. This opportunity requires excellent technical, problem-solving, and communication skills. Core to the role is to be able to innovate by defining solutions that can scale and deliver on customer value. Ideal candidates have extensive experience with agile methodologies, and show bias for action. You should be comfortable with a degree of ambiguity that’s higher than most projects and relish the idea of solving problems that, frankly, haven’t been solved at scale before. You will gain an understanding of how Amazon operates around a number of different product areas and help influence the direction of these products. Along the way, we guarantee that you’ll learn a ton, have fun and make a positive impact on millions of people.
+
+AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector. The AWS Global Support team interacts with leading companies and believes that world-class support is critical to customer success. AWS Support also partners with a global list of customers that are building mission-critical applications on top of AWS services.
+
+10010
+
+Key job responsibilities
+
+Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.
+
+Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.
+
+Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.
+
+Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.
+
+Design and code the right solutions starting with broadly defined problems.
+
+Work in an agile environment to deliver high-quality software.
+
+A day in the life
+
+The challenges FEEs solve for at Amazon are big and influence millions of customers, sellers, and products around the world. We are looking for individuals who are passionate about creating new products, features, and services from scratch while managing ambiguity and the pace of a company where development cycles are measured in weeks, not years. If this sounds interesting to you, apply and come chart your own path at Amazon.
+
+About The Team
+
+ABOUT AWS:
+
+ Diverse Experiences
+
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+ Why AWS
+
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+ Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+ Inclusive Team Culture
+
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+ Mentorship and Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Basic Qualifications
+
+ 2+ years of non-internship professional front end, web or mobile software development using JavaScript, HTML and CSS experience
+ 1+ years of computer science fundamentals (object-oriented design, data structures, algorithm design, problem solving and complexity analysis) experience
+ Experience using JavaScript frameworks such as angular and react
+
+Preferred Qualifications
+
+ 1+ years of agile software development methodology experience
+ Experience with common front-end technologies such as HTML, CSS, JS, TypeScript, and Node
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon Development Center U.S., Inc.
+
+Job ID: A2711991
+Location: New York, NY
+Salary: $129.3K/yr - $223.6K/yr
+Apply Link: https://www.amazon.jobs/en/jobs/2711991/front-end-engineer-ii-aws-iq-aws-marketplace-professional-services?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com
+Hirer: None
+Hirer URL: None
+
+No hirer details available
+Company Name: Burns & McDonnell
+Company LinkedIn URL: https://www.linkedin.com/company/burns-mcdonnell/life
+Company Size: 10,001+ employees
+Position Title: Full Stack Developer - Palantir (New York)
+Position URL: https://www.linkedin.com/jobs/view/3982703591/?alternateChannel=search&refId=URlcFQqfljRRedJX3nG1bQ%3D%3D&trackingId=8bGUsKU2DqVyaDYs5vYRvA%3D%3D&trk=d_flagship3_search_srp_jobs
+Position Description: About the job
+Description
+
+The growth and evolution of infrastructure demands coupled with a rapidly changing technological landscape presents significant opportunities to those companies that have the focus and foresight to solve some of society's most complex challenges. One area of focus for Burns & McDonnell is equipping our clients and workforce with superior data-driven decision-making capability. We have identified the need to establish a technology position focused on full stack software development.
+
+The
+
+Full Stack Developer plays a crucial role in the Innovation department, tasked with developing and maintaining the full spectrum of web applications, from user interface to server and database integration. This role is instrumental in driving the Orchestrated Design-Build initiative, crafting next-generation solutions that leverage advanced technologies like
+
+Palantir Foundry to propel Burns & McDonnell's engineering and construction services to new heights.
+
+We are looking for a highly skilled computer programmer who is comfortable with both front and back-end programming. Responsibilities include participating in user interviews, developing and designing front end web user interfaces from a composable architecture, integrating existing data sets and models, developing and maintaining semantically driven object ontologies, and ensuring the responsiveness of applications, among other duties.
+
+This position will be required to see out a project from conception to final product, requiring excellent organizational skills and attention to detail.
+
+Job Duties:
+
+Participation in user interviews to understand technical and customer needs.
+Developing front end website architecture based on Palantir Foundry.
+Designing user interactions on web pages within Palantir Foundry Workshop.
+Developing back-end code logic that leverages semantic object linking (ontologies) within Palantir Foundry Pipeline Builder, Code Workbook, and Ontology Manager.
+Creating servers, databases, and datasets for functionality as needed.
+Ensuring health of data connections and pipelines (utilizing filesystem, JDBC, SFTP, and webhook).
+Ensuring conformance with security protocols and markings on sensitive data sets.
+Ensuring responsiveness of web applications developed on low code/no code solutions.
+Ensuring cross-platform optimization for mobile phones.
+Seeing through projects from conception to finished product.
+Meeting both technical and customer needs.
+Staying abreast of developments in web applications and programming languages.
+Lead other engineers to develop features on your projects.
+
+Qualifications
+
+Bachelor's degree in computer science, Management Information Systems, Engineering or related field and 4 years required.
+Strong knowledge in programming languages and coding principles and procedures.
+Strong knowledge in web development framework.
+Strong attention to detail, facilitation, team building, collaboration, organization, and problem-solving skills.
+Excellent verbal and written communication skills.
+Ability to work methodically and analytically in a quantitative problem-solving environment.
+Effective written and oral communication skills.
+Demonstrated critical thinking skills.
+Strong knowledge in Microsoft Office Suite (Word, Excel, and PPT).
+Ability to obtain applicable certifications.
+Palantir Foundry experience preferred.
+Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript preferred.
+Familiarity with JavaScript libraries such as Lodash, Math.js, Moment, Numeral, and es6-shim preferred.
+Proficiency with server-side languages for structured data processing; Python, PySpark, Java, Apache Spark, and SparkSQL preferred.
+Familiarity with database technology such as MySQL, Oracle, MongoDB, and others preferred.
+Familiarity with analytical tools for business intelligence and data science such as Power BI, Jupyter, and R Studio preferred.
+Strong organizational and project management skills preferred.
+Team leadership experience preferred.
+
+The expected compensation range for this position is displayed in compliance with all local/state regulations. The expected compensation range for this position is based on a number of factors, including but not limited to individual education, qualifications, prior work experience and work location. The total annual compensation package will consist of a base salary and eligibility to participate in our discretionary year-end incentive bonus program.
+
+Benefits
+
+Our extensive benefits package takes care of you so that you can focus on doing great work. From insurance and disability to time off and wellness programs, we provide the tools to meet your needs. As part of being 100% employee-owned, eligible employees participate in our Employee Stock Ownership Plan (ESOP) in addition to our 401(k)-retirement program. For more information, please visit the Benefits & Wellness page.
+
+Compensation
+
+$125,000.00-165,000.00 Annually
+
+The expected compensation range for this position is displayed in compliance with all local/state regulations. The expected compensation range for this position is based on a number of factors, including but not limited to: individual education, qualifications, prior work experience and work location. The total annual compensation package will consist of a base salary and eligibility to participate in our discretionary year-end incentive bonus program.
+
+Benefits
+
+Our extensive benefits package takes care of you so that you can focus on doing great work. From insurance and disability to time off and wellness programs, we provide the tools to meet your needs. As part of being 100% employee-owned, eligible employees participate in our Employee Stock Ownership Plan (ESOP) in addition to our 401(k) retirement program. For more information, please visit the Benefits & Wellness page.
+
+This job posting will remain open a minimum of 72 hours and on an ongoing basis until filled
+
+EEO/Minorities/Females/Disabled/Veterans
+
+Job Web Development
+
+Primary Location US-NY-Manhattan
+
+Schedule: Full-time
+
+Travel: No
+
+Req ID: 241648
+
+Job Hire Type Experienced #COR
+Location: New York, NY
+Salary: $125K/yr - $165K/yr
+Apply Link: https://burnsmcd.jobs/manhattan-ny/full-stack-developer-palantir-new-york/E644403469D74A65A3395D215C9CA833/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social%20Media&utm_campaign=LinkedIn.com
+Hirer: None
+Hirer URL: None
+
+No hirer details available
+Company Name: Meta
+Company LinkedIn URL: https://www.linkedin.com/company/meta/life
+Company Size: 10,001+ employees
+Position Title: Software Engineer, Realtime Engine Technology - Reality Labs
+Position URL: https://www.linkedin.com/jobs/view/3966785807/?alternateChannel=search&refId=URlcFQqfljRRedJX3nG1bQ%3D%3D&trackingId=%2F7%2BUbNGBHgeXPy1BKayoWQ%3D%3D&trk=d_flagship3_search_srp_jobs
+Position Description: About the job
+Reality Labs at Meta is building products that make it easier for people to connect with the ones they love most, enjoy top-notch, wire-free VR, and push the future of computing platforms. We are a team of world-class experts developing and shipping products at the intersection of hardware, software and content.As a Realtime Engine Technology engineer at Meta, you can help build new, innovative hardware and software that radically redefine the way people work, play and connect. What we build today could one day be the norm. So to be here today is to truly be at the heart of change and the frontier of what's to come. We're the people helping to define the metaverse. We may not have all the answers. But together, we're getting closer.
+
+Software Engineer, Realtime Engine Technology - Reality Labs Responsibilities:
+
+Develop efficient and reusable systems that drive complex realtime interactive software
+Build technologies that empower developers to create compelling experiences
+Optimize and debug real-time systems to ensure smooth performance
+Set a high quality bar to make our technology easy and delightful for developers to use
+Engage in deep collaboration with partner teams to drive successful product outcomes
+
+Minimum Qualifications:
+
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+6+ years experience as an engineer developing features within 3D real-time interactive products
+6+ years experience with systems programming languages such as C++, Rust, or similar languages
+Proven problem-solving skills and experience working independently and collaboratively
+Effective communication and interpersonal skills
+
+Preferred Qualifications:
+
+Experience building engine-level systems for 3D real-time interactive engines (Unity 3D, Unreal, Frostbite, or other/proprietary)
+Experience building for virtual reality (Rift, Quest, VIVE, Valve Index, etc.) or mixed/augmented reality (HoloLens, Magic Leap, ARKit, ARCore etc.)
+Experience developing SDKs or shared technology that balances the needs of multiple shipping products
+Experience with performance optimization of real-time applications (CPU, GPU, Memory, etc. )
+Deep understanding of one or more real-time engine components ( Rendering, Collision, Physics, Input Processing, Audio, Animation, Networking, etc.)
+Strong understanding of 3D math, linear algebra and physics
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+$70.67/hour to $208,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about  benefits  at Meta.
+Location: New York, NY
+Salary: $70.67/yr - $208K/yr
+Apply Link: https://www.metacareers.com/jobs/8309525332408898/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_job=a1KDp00000E1grZMAR_1004&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20240726T004804Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=559cea434b2311ef8d784d9c7f1f2813b2de2ccbed7642839b0cd344a5a52b7a
+Hirer: None
+Hirer URL: None
+
+Encountered StaleElementReferenceException, retrying (1/3)...
+No hirer details available
+Company Name: SquarePeg
+Company LinkedIn URL: https://www.linkedin.com/company/squarepeg-hires/life
+Company Size: 11-50 employees
+Position Title: Senior Frontend Engineer - Mobile
+Position URL: https://www.linkedin.com/jobs/view/3977365996/?alternateChannel=search&refId=URlcFQqfljRRedJX3nG1bQ%3D%3D&trackingId=qVpyyrLz%2BAIYth%2Fkjs96Xw%3D%3D&trk=d_flagship3_search_srp_jobs
+Position Description: About the job
+Job Overview
+We are actively seeking a Senior Frontend Engineer to join our client's team in the Fintech sector. This position is ideal for someone with a deep interest in product experiences, eager to understand their impact on users. The ideal candidate thrives on collaborating with Backend engineers, product designers, product managers, and users, striving to discern their desires, needs, and the most effective solutions to develop. This individual should be capable of delivering high-quality work independently and learn from mistakes to continually grow in their role. The position is based in New York City.
+
+
+Responsibilities
+Participate in critical, technical, and product discussions with leaders across our engineering, product and business team
+Architect scalable and maintainable mobile applications, ensuring responsiveness and cross-platform compatibility
+Have a strong eye for the operational aspects of the platform such as deployment, performance tuning and monitoring
+Keep technical debt low by reinforcing our Engineering culture of code reviews, solid test coverage, and documentation
+Balance short-term execution with longer-term concerns such as extensibility and reusability
+
+Qualifications
+5+ years of experience
+Proven experience in React Native, TypeScript/JavaScript
+Deep understanding of usability issues in mobile (iOS and Android) and web applications
+Experience building products at scale that actively take customer feedback into accou
+Ability to write high-performance, reusable code for UI components, including appropriate testing
+Experience mentoring, guiding, and coaching team members and a passion for learning and sharing what you’ve learned with others
+Effective written and verbal communication skills. Must be a team player and work well in a team environment
+Comfortable coming in-office 4 days a week
+
+
+Additional Informat
+ionCompensation: The base salary offered is up to $200,000, with additional yearly equity and performance-based bonuses included in the total compensation package.
+Location: New York, NY
+Salary: $200K/yr
+Apply Link: https://www.squarepeghires.com/jobs/82gx7r/senior-frontend-engineer-mobile-applications
+Hirer: None
+Hirer URL: None
+
+Company Name: Harnham
+Company LinkedIn URL: https://www.linkedin.com/company/harnham/life
+Company Size: 201-500 employees
+Position Title: Fullstack Engineer
+Position URL: https://www.linkedin.com/jobs/view/3982067530/?alternateChannel=search&refId=URlcFQqfljRRedJX3nG1bQ%3D%3D&trackingId=AxPm5ufMJPYqUCb7FlM0PQ%3D%3D&trk=d_flagship3_search_srp_jobs
+Position Description: About the job
+Fullstack Engineer
+Gen AI Startup
+New York City (Hybrid)
+$150,000-$170,000 + Equity
+
+About us:
+We are collaborating with a startup that specializes in an advanced fintech management platform that utilizes machine learning models to enhance operational efficiency. With partnerships established with major clients in the industry, they are expanding their team to meet growing demands.
+
+Role Description:
+As a Fullstack Engineer, your role will involve developing new features and enhancing existing functionalities of their platform. You'll focus on scaling systems to accommodate the increasing demands of a large user base and ensure applications are user-friendly and dependable. Additionally, you'll collaborate closely with product and design teams to implement and launch new features.
+
+Requirements:
+As a Fullstack Engineer you will be required to work equally on the frontend and backend engineering. You will have architectural responsibilities and be client facing in this role.
+Proficient in React, Typescript, Node, Express
+In depth knowledge of relational and non-relational databases (ex. PostgreSQL, MySQL)
+Has worked in a startup environment
+Experience working in Agile/Scrum development environments
+Ability to architect scalable and maintainable systems
+Implement and maintain integrations with third-party services and APIs
+Write clean, maintainable code with a focus on performance and security
+Participate in code reviews, sprint planning, and other agile processes
+Troubleshoot issues, fix bugs, and improve application performance
+Strong communication skills and ability to collaborate effectively with cross-functional teams
+
+The Benefits:
+As a Fullstack Software Engineer, you will receive $150,000- $170,000 plus equity. This role also includes, 401k, health, dental, and vision care.
+
+How to Apply:
+Please register your interest by sending your resume to Neha Nidamarti via the Apply link on this page.
+
+Keywords:
+Software Engineer, Startup, React, Typescript, Node, Express
+Location: New York, NY
+Salary: None
+Apply Link: https://www.linkedin.com/jobs/view/3982067530/?alternateChannel=search&refId=URlcFQqfljRRedJX3nG1bQ%3D%3D&trackingId=AxPm5ufMJPYqUCb7FlM0PQ%3D%3D&trk=d_flagship3_search_srp_jobs
+Hirer: Neha Nidamarti 
+Hirer URL: https://www.linkedin.com/in/neha-nidamarti-b9303378
+
+No more elements to interact with.

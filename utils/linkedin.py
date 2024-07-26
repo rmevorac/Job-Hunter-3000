@@ -11,7 +11,7 @@ from selenium.common.exceptions import NoSuchElementException, StaleElementRefer
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-# from scraping import wait_for_content_change
+from .scraping import wait_for_content_change
 
 def sign_in(driver, user):
     """
@@ -78,66 +78,54 @@ def sign_in(driver, user):
 
 def get_open_positions(driver):
     """
-    Gets all hiring companies and associated info
+    Gets all hiring companies and associated info on a single page.
     """
-    i = 0
+    max_positions = 30
     max_attempts = 3
     old_content = None
 
-    while i < 3:
-        try:
-            # Refetch the elements on each iteration to avoid stale references
-            hiring_companies = WebDriverWait(driver, 5).until(
-                EC.presence_of_all_elements_located((By.CLASS_NAME, 'job-card-container--clickable'))
-            )
+    for i in range(max_positions):
+        attempts = 0
 
-            # Attempt to click on the element
-            WebDriverWait(driver, 5).until(
-                EC.element_to_be_clickable(hiring_companies[i])
-            ).click()
+        while attempts < max_attempts:
+            try:
+                # Fetch all clickable job cards
+                hiring_companies = WebDriverWait(driver, 5).until(
+                    EC.presence_of_all_elements_located((By.CLASS_NAME, 'job-card-container--clickable'))
+                )
 
-            # Get company info
-            company_info = WebDriverWait(driver, 5).until(
-                EC.presence_of_element_located((By.CLASS_NAME, 'job-details-jobs-unified-top-card__container--two-pane'))
-            )
+                # Click on the ith job card
+                WebDriverWait(driver, 5).until(
+                    EC.element_to_be_clickable(hiring_companies[i])
+                ).click()
 
-            # Check that content has updated before getting the info of the next company
-            if wait_for_content_change(driver, company_info, old_content, 5):
-                get_company_details(driver, company_info)
+                # Wait for the job details content to load and change
+                WebDriverWait(driver, 10).until(
+                    EC.visibility_of_element_located((By.CLASS_NAME, 'jobs-details__main-content'))
+                )
 
-            # Update old_content with current company info
-            old_content = company_info.get_attribute()
+                all_position_details = wait_for_content_change(driver, 'jobs-details__main-content', old_content, 5)
+                
+                if all_position_details:
+                    position = get_position_details(all_position_details)
+                    position['apply_link'] = get_apply_link(driver, all_position_details, position.get('position_linkedin_URL'))
+                    print_position_details(position)
+                    old_content = all_position_details
+                    break  # Exit the retry loop if successful
 
-            # Increment only if click was successful
-            i += 1
-        except StaleElementReferenceException:
-            if max_attempts > 0:
-                max_attempts -= 1
-                print("Encountered StaleElementReferenceException, retrying...")
-            else:
-                print("Failed to interact with element after several attempts.")
-                break
-        except IndexError:
-            print("No more elements to interact with.")
-            break
+            except (StaleElementReferenceException, TimeoutException) as e:
+                attempts += 1
+                if attempts >= max_attempts:
+                    print(f"Failed to interact with element after several attempts: {e}")
+                    break
+                print(f"Encountered {e.__class__.__name__}, retrying ({attempts}/{max_attempts})...")
 
-        WebDriverWait(driver, 3)
-
-
-def get_position_details(driver):
-    try:
-        WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located((By.CLASS_NAME, 'jobs-details__main-content'))
-        )
-        all_position_details = driver.find_element(By.CLASS_NAME, 'jobs-details__main-content')
-        position = extract_position_details(all_position_details)
-        position['apply_link'] = get_apply_link(driver, all_position_details, position.get('position_linkedin_URL'))
-        print_position_details(position)
-    except TimeoutException:
-        print("Page did not load in time")
+            except IndexError:
+                print("No more elements to interact with.")
+                return
 
 
-def extract_position_details(all_position_details):
+def get_position_details(all_position_details):
     position = {}
 
     try:
@@ -161,7 +149,7 @@ def extract_position_details(all_position_details):
         details_div = main_position_details.find_elements(By.CLASS_NAME, 'job-details-jobs-unified-top-card__job-insight')
 
         position['position_salary'] = details_div[0].find_element(By.XPATH, 'span/span').text.split(" · ", 1)[0]
-        position['company_size'] = details_div[1].find_element(By.TAG_NAME, 'span').text
+        position['company_size'] = details_div[1].find_element(By.TAG_NAME, 'span').text.split(" · ", 1)[0]
 
         if "$" not in position['position_salary']:
             position['position_salary'] = None
@@ -176,16 +164,19 @@ def extract_position_details(all_position_details):
 
 
 def get_apply_link(driver, position_details, position_url):
-    WebDriverWait(driver, 5).until(
+    apply_button = WebDriverWait(driver, 5).until(
         EC.element_to_be_clickable(position_details.find_element(By.CLASS_NAME, 'jobs-apply-button--top-card'))
-    ).click()
+    )
 
     # Optionally, handle new windows/tabs if that's how the site works
-    if len(driver.window_handles) > 1:
-        driver.switch_to.window(driver.window_handles[1])
-        apply_link = driver.current_url
-        driver.close()  # Close the new tab if you don't need it open
-        driver.switch_to.window(driver.window_handles[0])  # Switch back to the original tab
+    if apply_button.text == "Apply":
+        apply_button.click()
+
+        if len(driver.window_handles) > 1:
+            driver.switch_to.window(driver.window_handles[1])
+            apply_link = driver.current_url
+            driver.close()  # Close the new tab if you don't need it open
+            driver.switch_to.window(driver.window_handles[0])  # Switch back to the original tab
 
     else:
         # If the button leads to a new page in the same tab

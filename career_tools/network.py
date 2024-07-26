@@ -26,7 +26,7 @@ def network():
     # In the future include user input and don't go directly to the URL, doing this now so I could start using it quicker
     driver.get("https://www.linkedin.com/jobs/search/?f_PP=102571732&f_TPR=r86400&geoId=90000070&keywords=software%20engineer&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=R")
 
-    # linkedin.get_hiring_companies(driver)
-    linkedin.get_position_details(driver)
+    linkedin.get_open_positions(driver)
+    # linkedin.get_position_details(driver)
 
     driver.close()
