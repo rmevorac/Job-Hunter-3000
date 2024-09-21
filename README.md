@@ -38,6 +38,9 @@ Job-Hunter-3000 is a Python-based application designed to streamline job searchi
     - Add machine learning models to:
         - Evaluate job qualifications
         - Tailor messages to company employees and recruiters based on user profiles
+     
+6. React Web App
+    - Build a react web app and give access to friends
 
 
 ### How to Run Tests
